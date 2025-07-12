@@ -32,7 +32,7 @@
 
 Estructura de un elemento:
 
-```json
+```javascript
 {
     "id": "id number", // uuid string
     "active": true, // boolean
