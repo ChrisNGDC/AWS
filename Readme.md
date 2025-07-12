@@ -34,7 +34,7 @@ Estructura de un elemento:
 
 ```json
 {
-    "id": String, // uuid
+    "id": "id number", // uuid string
     "active": true, // boolean
     "descripcion": "La descripcion", // string
     "fecha": "YYYY-MM-DD", // string date
