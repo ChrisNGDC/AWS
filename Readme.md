@@ -49,4 +49,4 @@ Estructura de un elemento:
 #### Imagenes
 
 - folder
-  - image.extention
+  - imagen.extencion
